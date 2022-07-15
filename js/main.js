@@ -87,9 +87,6 @@ const renderizarDOM = async() => {
 renderizarDOM();
 
 
-DOMProductos.addEventListener('click', (e) =>{
-
-})
 
   //-----------------------------------------------------------
 
